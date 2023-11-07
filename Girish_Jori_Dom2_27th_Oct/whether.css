@@ -1,0 +1,11 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#mapContainer {
+    margin-top: 50px;
+}
+
+#weatherData {
+    margin-top: 50px;
+}

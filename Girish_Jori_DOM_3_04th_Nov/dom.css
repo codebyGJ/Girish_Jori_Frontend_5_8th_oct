@@ -1,0 +1,65 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #222020;
+    color: white;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    background-color: black
+    ;
+    /* padding: 20px; */
+    border-radius: 10px;
+}
+
+table {
+    width: 100%;
+    background-color: black;
+    border-collapse: collapse;
+    border: 0;
+}
+
+th,
+td {
+    padding: 20px;
+    text-align: left;
+    margin-left: 20px;
+}
+
+th {
+    background-color: #333;
+}
+
+tr {
+    border-bottom: 1px solid #555;
+   
+}
+
+tr:hover {
+    background-color: #555;
+}
+
+.crypto-icon {
+    display: flex;
+    align-items: center;
+    background-color: black;
+    padding: 5px;
+    border-radius: 50px;
+}
+
+.crypto-icon img {
+    width: 24px;
+    height: 24px;
+    margin-right: 5px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
